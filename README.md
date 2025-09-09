@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-안녕하세요
 
 <!--
 **unic5rn-ops/unic5rn-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
